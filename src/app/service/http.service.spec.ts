@@ -24,7 +24,27 @@ describe('HttpService', () => {
     // httpMock = TestBed.get(HttpTestingController as Type<HttpTestingController>);
   });
 
-  it('should be created', () => {
+  it('should be created1', () => {
+    expect(service).toBeTruthy();
+  });
+
+  it('should be created2', () => {
+    expect(service).toBeTruthy();
+  });
+
+  it('should be created3', () => {
+    expect(service).toBeTruthy();
+  });
+
+  it('should be created4', () => {
+    expect(service).toBeTruthy();
+  });
+
+  it('should be created5', () => {
+    expect(service).toBeTruthy();
+  });
+
+  it('should be created6', () => {
     expect(service).toBeTruthy();
   });
 });
