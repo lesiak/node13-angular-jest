@@ -47,4 +47,8 @@ describe('HttpService', () => {
   it('should be created6', () => {
     expect(service).toBeTruthy();
   });
+  
+  it('should be created7', () => {
+    expect(service).toBeTruthy();
+  });
 });
